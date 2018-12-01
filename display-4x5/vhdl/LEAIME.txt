@@ -1,0 +1,7 @@
+Baixe o gcg em http://code.google.com/p/gcg/
+
+Crie o projeto divisor.
+divisor
+ |--src
+ |--testbench
+ |-- ...
