@@ -53,127 +53,187 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(320,330)" to="(320,340)"/>
-    <wire from="(340,330)" to="(340,340)"/>
-    <wire from="(300,340)" to="(300,420)"/>
-    <wire from="(360,340)" to="(360,420)"/>
-    <wire from="(300,300)" to="(300,330)"/>
-    <wire from="(250,280)" to="(290,280)"/>
-    <wire from="(250,260)" to="(290,260)"/>
-    <wire from="(250,300)" to="(290,300)"/>
-    <wire from="(360,300)" to="(360,330)"/>
-    <wire from="(250,320)" to="(290,320)"/>
-    <wire from="(250,340)" to="(290,340)"/>
-    <wire from="(370,280)" to="(410,280)"/>
-    <wire from="(370,300)" to="(410,300)"/>
-    <wire from="(370,320)" to="(410,320)"/>
-    <wire from="(370,340)" to="(410,340)"/>
-    <wire from="(370,260)" to="(410,260)"/>
-    <wire from="(300,170)" to="(300,270)"/>
-    <wire from="(360,170)" to="(360,270)"/>
-    <wire from="(300,270)" to="(320,270)"/>
-    <wire from="(300,340)" to="(320,340)"/>
-    <wire from="(340,270)" to="(360,270)"/>
-    <wire from="(340,340)" to="(360,340)"/>
-    <wire from="(300,300)" to="(310,300)"/>
-    <wire from="(220,330)" to="(300,330)"/>
-    <wire from="(350,300)" to="(360,300)"/>
-    <wire from="(360,330)" to="(440,330)"/>
-    <wire from="(320,190)" to="(320,250)"/>
-    <wire from="(340,190)" to="(340,250)"/>
-    <wire from="(340,350)" to="(340,410)"/>
-    <wire from="(320,350)" to="(320,410)"/>
-    <comp lib="0" loc="(370,260)" name="Pin">
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(370,340)" name="Pin">
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(290,320)" name="Pin">
+    <wire from="(240,270)" to="(240,280)"/>
+    <wire from="(260,270)" to="(260,280)"/>
+    <wire from="(220,280)" to="(220,360)"/>
+    <wire from="(280,280)" to="(280,360)"/>
+    <wire from="(170,220)" to="(210,220)"/>
+    <wire from="(170,200)" to="(210,200)"/>
+    <wire from="(170,240)" to="(210,240)"/>
+    <wire from="(280,240)" to="(280,270)"/>
+    <wire from="(170,260)" to="(210,260)"/>
+    <wire from="(170,280)" to="(210,280)"/>
+    <wire from="(290,220)" to="(330,220)"/>
+    <wire from="(290,240)" to="(330,240)"/>
+    <wire from="(290,260)" to="(330,260)"/>
+    <wire from="(290,280)" to="(330,280)"/>
+    <wire from="(290,200)" to="(330,200)"/>
+    <wire from="(220,240)" to="(220,270)"/>
+    <wire from="(280,110)" to="(280,210)"/>
+    <wire from="(220,110)" to="(220,210)"/>
+    <wire from="(260,210)" to="(280,210)"/>
+    <wire from="(260,280)" to="(280,280)"/>
+    <wire from="(220,210)" to="(240,210)"/>
+    <wire from="(220,280)" to="(240,280)"/>
+    <wire from="(140,270)" to="(220,270)"/>
+    <wire from="(270,240)" to="(280,240)"/>
+    <wire from="(280,270)" to="(360,270)"/>
+    <wire from="(220,240)" to="(230,240)"/>
+    <wire from="(260,290)" to="(260,350)"/>
+    <wire from="(240,130)" to="(240,190)"/>
+    <wire from="(260,130)" to="(260,190)"/>
+    <wire from="(240,290)" to="(240,350)"/>
+    <comp lib="0" loc="(210,260)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(370,300)" name="Pin">
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
+    <comp lib="6" loc="(255,138)" name="Text">
+      <a name="text" val="2"/>
     </comp>
-    <comp lib="0" loc="(290,340)" name="Pin">
+    <comp lib="6" loc="(213,119)" name="Text">
+      <a name="text" val="5"/>
+    </comp>
+    <comp lib="6" loc="(172,238)" name="Text">
+      <a name="text" val="8"/>
+    </comp>
+    <comp lib="6" loc="(252,350)" name="Text">
+      <a name="text" val="18"/>
+    </comp>
+    <comp lib="6" loc="(173,198)" name="Text">
+      <a name="text" val="0"/>
+    </comp>
+    <comp lib="0" loc="(210,200)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(310,300)" name="Pin">
+    <comp lib="0" loc="(290,200)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(355,268)" name="Text">
+      <a name="text" val="10"/>
+    </comp>
+    <comp lib="0" loc="(210,240)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(340,350)" name="Pin">
-      <a name="facing" val="south"/>
+    <comp lib="0" loc="(290,240)" name="Pin">
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(320,350)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
+    <comp lib="6" loc="(210,361)" name="Text">
+      <a name="text" val="13"/>
     </comp>
     <comp lib="0" loc="(290,260)" name="Pin">
-      <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(340,250)" name="Pin">
+    <comp lib="6" loc="(172,293)" name="Text">
+      <a name="text" val="16"/>
+    </comp>
+    <comp lib="0" loc="(240,210)" name="Pin">
       <a name="facing" val="north"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(340,270)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(340,330)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(290,300)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(320,250)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(320,330)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(370,280)" name="Pin">
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(370,320)" name="Pin">
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(320,270)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(350,300)" name="Pin">
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(290,280)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(174,256)" name="Text">
+      <a name="text" val="12"/>
+    </comp>
+    <comp lib="0" loc="(240,270)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(260,270)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(270,240)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(290,220)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(289,361)" name="Text">
+      <a name="text" val="14"/>
+    </comp>
+    <comp lib="6" loc="(327,238)" name="Text">
+      <a name="text" val="11"/>
+    </comp>
+    <comp lib="0" loc="(260,210)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(172,218)" name="Text">
+      <a name="text" val="4"/>
+    </comp>
+    <comp lib="0" loc="(210,220)" name="Pin">
       <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(326,292)" name="Text">
+      <a name="text" val="19"/>
+    </comp>
+    <comp lib="0" loc="(260,290)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(210,280)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(326,258)" name="Text">
+      <a name="text" val="15"/>
+    </comp>
+    <comp lib="0" loc="(230,240)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(327,219)" name="Text">
+      <a name="text" val="7"/>
+    </comp>
+    <comp lib="6" loc="(328,198)" name="Text">
+      <a name="text" val="3"/>
+    </comp>
+    <comp lib="0" loc="(240,190)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(234,138)" name="Text">
+      <a name="text" val="1"/>
+    </comp>
+    <comp lib="0" loc="(260,190)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(232,350)" name="Text">
+      <a name="text" val="17"/>
+    </comp>
+    <comp lib="6" loc="(286,119)" name="Text">
+      <a name="text" val="6"/>
+    </comp>
+    <comp lib="6" loc="(142,267)" name="Text">
+      <a name="text" val="9"/>
+    </comp>
+    <comp lib="0" loc="(240,290)" name="Pin">
+      <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
